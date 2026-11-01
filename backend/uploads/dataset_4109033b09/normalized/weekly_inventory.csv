@@ -1,0 +1,2 @@
+week_start,item_code,location_code,closing_stock,reorder_point,target_stock,inventory_position,unmet_quantity
+2026-10-19,TR-01,LOC-01,10.0,5.0,15.0,10.0,0.0

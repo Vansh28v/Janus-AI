@@ -1,0 +1,23 @@
+{
+    "datasets": [
+        {
+            "id": "synthetic_demo",
+            "name": "Synthetic Demo",
+            "type": "synthetic",
+            "description": "Built-in GridStock AI demonstration dataset.",
+            "created_at": "2026-11-01T11:54:44.767434+00:00",
+            "status": "ready"
+        },
+        {
+            "id": "dataset_4109033b09",
+            "name": "Test Phase 1 Dataset",
+            "type": "uploaded",
+            "description": "Validation of Phase 1 Quality & Approval",
+            "created_at": "2026-11-01T12:03:08.638563+00:00",
+            "status": "review",
+            "files": [],
+            "profile": {},
+            "normalization_status": "completed"
+        }
+    ]
+}

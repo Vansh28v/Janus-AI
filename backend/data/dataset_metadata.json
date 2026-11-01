@@ -1,0 +1,10 @@
+{
+    "project": "GridStock AI",
+    "data_type": "SYNTHETIC",
+    "random_seed": 42,
+    "historical_weeks": 156,
+    "materials": 20,
+    "locations": 5,
+    "suppliers": 8,
+    "consumption_records": 15600
+}

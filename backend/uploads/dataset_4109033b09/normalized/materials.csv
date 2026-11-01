@@ -1,0 +1,2 @@
+item_code,item_name,unit,category,criticality,unit_cost,lead_time_days
+TR-01,Transformer 100kVA,unit,Transformer,Vital,150000,30

@@ -1,0 +1,2 @@
+total_series,total_forecasts,forecast_horizon_weeks,test_period_weeks,mean_mae,mean_rmse,mean_wape,mean_bias
+100,1200,12,26,11.005325280014704,15.603272716463437,18.064179305101234,-1.403310645381052

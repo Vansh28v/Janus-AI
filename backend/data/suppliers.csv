@@ -1,0 +1,9 @@
+supplier_code,supplier_name,average_lead_time_days,lead_time_std_days,reliability_score,status
+SUP-001,Gujarat Electrical Supplies,55,3,0.76,Active
+SUP-002,Western Power Equipment,32,5,0.8,Active
+SUP-003,National Transformer Works,21,10,0.77,Active
+SUP-004,Prime Cable Industries,42,2,0.76,Active
+SUP-005,ElectroTech Components,28,5,0.87,Active
+SUP-006,Bharat Switchgear Corporation,16,10,0.8,Active
+SUP-007,Reliable Energy Materials,56,10,0.85,Active
+SUP-008,Universal Grid Solutions,43,6,0.94,Active

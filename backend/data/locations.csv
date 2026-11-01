@@ -1,0 +1,6 @@
+location_code,location_name,region,location_type,latitude,longitude
+GUVNL-HO,Head Store,Central Gujarat,Head Store,22.3072,73.1812
+GUVNL-ANAND,Anand Circle Store,Central Gujarat,Circle Store,22.5645,72.9289
+GUVNL-VAD,Vadodara Circle Store,Central Gujarat,Circle Store,22.3072,73.1812
+GUVNL-AHM,Ahmedabad Circle Store,North Gujarat,Circle Store,23.0225,72.5714
+GUVNL-SRT,Surat Circle Store,South Gujarat,Circle Store,21.1702,72.8311

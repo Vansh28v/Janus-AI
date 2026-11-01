@@ -1,0 +1,21 @@
+item_code,item_name,category,unit,criticality,unit_cost,lead_time_days
+TR-DT-063,Distribution Transformer 63 kVA,Transformer,unit,Vital,145000,45
+TR-DT-100,Distribution Transformer 100 kVA,Transformer,unit,Vital,185000,50
+TR-DT-200,Distribution Transformer 200 kVA,Transformer,unit,Vital,265000,60
+CB-XLPE-3C,XLPE Cable 3 Core,Cable,meter,Vital,420,25
+CB-XLPE-1C,XLPE Cable Single Core,Cable,meter,Essential,180,20
+CN-ACSR-100,ACSR Conductor 100 sq mm,Conductor,meter,Vital,95,30
+CN-ACSR-150,ACSR Conductor 150 sq mm,Conductor,meter,Essential,135,30
+MT-1PH,Single Phase Energy Meter,Meter,unit,Essential,850,20
+MT-3PH,Three Phase Energy Meter,Meter,unit,Essential,2200,25
+MT-CT,CT Operated Energy Meter,Meter,unit,Desirable,6500,35
+PL-8M,Concrete Electric Pole 8m,Pole,unit,Vital,8500,35
+PL-9M,Concrete Electric Pole 9m,Pole,unit,Vital,10500,40
+SW-VCB-11,11kV Vacuum Circuit Breaker,Switchgear,unit,Vital,125000,55
+SW-AB-11,11kV Air Break Switch,Switchgear,unit,Essential,38000,40
+SW-FUSE,Distribution Fuse Unit,Switchgear,unit,Essential,1800,15
+IN-INSULATOR,Porcelain Insulator,Insulator,unit,Essential,450,15
+IN-ROD,Lightning Arrestor,Protection,unit,Vital,3200,25
+PR-CT,Current Transformer,Protection,unit,Essential,7800,30
+PR-PT,Potential Transformer,Protection,unit,Essential,12000,35
+AC-GLAND,Cable Gland and Accessories Kit,Consumables,kit,Desirable,950,12
