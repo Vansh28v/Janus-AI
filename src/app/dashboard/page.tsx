@@ -33,7 +33,7 @@ import {
   YAxis,
 } from "recharts";
 
-const API_BASE = "http://localhost:8000";
+const API_BASE = "https://janus-ai-backend-j6bb.onrender.com";
 
 type Forecast = {
   week_start: string;

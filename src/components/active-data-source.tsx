@@ -3,7 +3,7 @@
 import { useEffect, useState } from "react";
 import { Database, ShieldCheck, AlertTriangle, Loader2 } from "lucide-react";
 
-const API_BASE = "http://localhost:8000/api/data-intelligence";
+const API_BASE = "https://janus-ai-backend-j6bb.onrender.com/api/data-intelligence";
 
 type WorkspaceResult = {
   compatible: boolean;

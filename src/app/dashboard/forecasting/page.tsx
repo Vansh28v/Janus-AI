@@ -59,7 +59,7 @@ type HistoricalResponse = {
   data: HistoricalRecord[];
 };
 
-const API_URL = "http://localhost:8000";
+const API_URL = "https://janus-ai-backend-j6bb.onrender.com";
 
 const formatNumber = (value: number) =>
   new Intl.NumberFormat("en-IN", {

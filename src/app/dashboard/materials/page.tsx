@@ -28,7 +28,7 @@ import {
   YAxis,
 } from "recharts";
 
-const API = "http://localhost:8000/api";
+const API = "https://janus-ai-backend-j6bb.onrender.com/api";
 
 type Material = {
   item_code: string;

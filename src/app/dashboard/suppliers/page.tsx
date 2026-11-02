@@ -69,7 +69,7 @@ type SupplierResponse = {
   suppliers: Supplier[];
 };
 
-const API_URL = "http://localhost:8000/api/suppliers/overview";
+const API_URL = "https://janus-ai-backend-j6bb.onrender.com/api/suppliers/overview";
 const GOLD = "#C9A362";
 const MUTED = "#898276";
 const GRID = "#29251E";

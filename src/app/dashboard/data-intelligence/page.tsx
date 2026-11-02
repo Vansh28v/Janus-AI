@@ -31,7 +31,7 @@ import {
 } from "lucide-react";
 
 const API_BASE =
-  (process.env.NEXT_PUBLIC_API_URL || "http://localhost:8000/api") +
+  (process.env.NEXT_PUBLIC_API_URL || "https://janus-ai-backend-j6bb.onrender.com/api") +
   "/data-intelligence";
 
 const TABLE_OPTIONS = [

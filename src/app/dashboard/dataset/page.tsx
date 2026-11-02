@@ -35,7 +35,7 @@ import {
   YAxis,
 } from "recharts";
 
-const API = "http://localhost:8000/api";
+const API = "https://janus-ai-backend-j6bb.onrender.com/api";
 
 const GOLD = "#C9A362";
 const CHAMPAGNE = "#E6C98E";
