@@ -346,12 +346,22 @@ export default function DashboardPage() {
     <BrainCircuit size={16} />
   )}
 
+
+
   {renderWorkspaceLink(
     "inventory",
     "/dashboard/inventory",
     "Inventory Intelligence",
     <Boxes size={16} />
   )}
+
+  <a
+  href="/dashboard/calendar"
+  className="flex items-center gap-3 rounded-sm px-3 py-3 text-[12px] text-[#9D9588] transition hover:bg-white/5 hover:text-[#E6C98E]"
+>
+  <CalendarDays size={16} />
+  Material Planning Calendar
+</a>
 
   <a
     href="/dashboard/materials"
